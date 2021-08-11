@@ -11,6 +11,7 @@
 ### 📕 &nbsp;Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Autenticação no lado cliente em minutos e sem Back-end](https://liandrowesley.dev/blog/introducao)
+- [Você deveria conhecer este repositório!](https://liandrowesley.dev/blog/links-uteis)
 - [Era uma vez 🙈…](https://liandrowesley.dev/blog/era-uma-vez)
+- [Autenticação no lado cliente em minutos e sem Back-end](https://liandrowesley.dev/blog/introducao)
 <!-- BLOG:END -->
