@@ -20,6 +20,6 @@
 
 #### English
 
-<!-- BLOGEN:START -->
+<!-- ENGLISH:START -->
 
-<!-- BLOGEN:END -->
+<!-- ENGLISH:END -->
