@@ -16,3 +16,8 @@ jobs:
       with:
         comment_tag_name: BLOG
         feed_list: "https://www.liandrowesley.dev/rss.xml"
+    - name: Updating blog posts in English
+      uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        comment_tag_name: ENGLISH
+        feed_list: "https://www.liandrowesley.dev/en/rss.xml"
