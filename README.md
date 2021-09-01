@@ -21,6 +21,6 @@
 #### English
 
 <!-- ENGLISH:START -->
-- [What is an RSS feed and how can it help you stay up to date?](https://liandrowesley.dev/blog/what-is-an-rss-feed-and-how-can-it-help-you-stay-up-to-date)
-- [You should know about this repository!](https://liandrowesley.dev/blog/you-should-know-about-this-repository)
+- [O que é feed RSS  e como ele pode ajudar você a se manter atualizado?](https://liandrowesley.dev/blog/o-que-e-feed-rss-e-como-ele-pode-ajudar-voce-a-se-manter-atualizado)
+- [Você deveria conhecer este repositório!](https://liandrowesley.dev/blog/voce-deveria-conhecer-este-repositorio)
 <!-- ENGLISH:END -->
