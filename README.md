@@ -5,13 +5,13 @@
 
 ### You can find me on
 
-📷 &nbsp; [LinkedIn](https://linkedin.com/in/liandrowesley) <br>
-⚛️ &nbsp; [My site](https://liandrowesley.dev) <br>
+📠 &nbsp; [LinkedIn](https://linkedin.com/in/liandrowesley) <br>
+⚛️ &nbsp; [My blog](https://liandrowesley.dev) <br>
 
 ### 📕 &nbsp;Latest Blog Posts
 
 
-#### Português
+#### Portuguese
 
 <!-- BLOG:START -->
 - [O que é feed RSS  e como ele pode ajudar você a se manter atualizado?](https://liandrowesley.dev/blog/o-que-e-feed-rss-e-como-ele-pode-ajudar-voce-a-se-manter-atualizado)
