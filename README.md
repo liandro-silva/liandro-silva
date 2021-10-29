@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Liandro Wesley!
 
-💻 &nbsp;Mid Software Developer at [Magna Sistemas](http://www.magnasistemas.com.br/internet/) <br>
+ <br>
 🏡 &nbsp;Brazilian, Based in Recife, PE 🌎
 
 ### You can find me on
