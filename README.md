@@ -1,12 +1,56 @@
-<img src="./profile2.gif">
+<h1 align="left">Hey Folks! I'm Liandro Silva</h1>
+<h3 align="left"></h3>
+</p>
 
-## 📕 &nbsp;Latest Blog Posts
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook lee">
+
+- 🍎&nbsp;Front-end Developer. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
+- ⚛&nbsp;React and React Native Developer
+- 🏆 &nbsp;I’m currently working on [Alfred Delivery](https://www.alfreddelivery.com/)
+
+- 👨🏻‍💻&nbsp; I’m always studying **JavaScript, React, React Native**
+
+- 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/liandrowesley)
+
+- 💬&nbsp; My Friends call me "Li" its my nickname
+
+- 🚀 &nbsp; i live in **Brasil** but i want to live in **Portugal** or **Canada**
 
 
-#### Portuguese
+<br>
 
-<!-- BLOG:START -->
-- [O que é feed RSS  e como ele pode ajudar você a se manter atualizado?](https://liandrowesley.dev/blog/o-que-e-feed-rss-e-como-ele-pode-ajudar-voce-a-se-manter-atualizado)
-- [Você deveria conhecer este repositório!](https://liandrowesley.dev/blog/voce-deveria-conhecer-este-repositorio)
-<!-- BLOG:END -->
+## 🛠 &nbsp;Tech Stack
 
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<br>
+
+<center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liandro-wesley&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=liandro-wesley&show_icons=true&theme=nightowl" alt="liandro's stats"/>
+</center>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://www.instagram.com/liandro__wesley/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/liandrowesley" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+</a>
+  <a href="https://blogv2.liandrowesley.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/My Blog-05122A?style=for-the-badge&logo=site" alt="linkedin"/>
+</a>
+</p>
