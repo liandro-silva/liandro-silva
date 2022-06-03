@@ -53,4 +53,8 @@
   <a href="https://blogv2.liandrowesley.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/My Blog-05122A?style=for-the-badge&logo=site" alt="linkedin"/>
 </a>
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Liandro+Wesley" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Published Apps-05122A?style=for-the-badge&logo=app" alt="linkedin"/>
+</a>
 </p>
