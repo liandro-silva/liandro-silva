@@ -5,10 +5,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook lee">
 
 - 🍎&nbsp;Front-end Developer. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
-- ⚛&nbsp;React, React Native and Node Developer
+- ⚛&nbsp;React, React Native Developer
 - 🏆 &nbsp;I’m currently working on [Alfred Delivery](https://www.alfreddelivery.com/)
 
-- 👨🏻‍💻&nbsp; I’m always studying **JavaScript, React, React Native**
+- 👨🏻‍💻&nbsp; I’m always studying **JavaScript, React, React Native and NodeJS**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/liandrowesley)
 
