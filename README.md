@@ -12,7 +12,7 @@
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/liandrowesley)
 
-- 💬&nbsp; My Friends call me "Li" its my nickname
+- 💬&nbsp; My Friends call me "Lee" its my nickname
 
 - 🚀 &nbsp; i live in **Brasil** but i want to live in **Portugal** or **Canada**
 
