@@ -13,8 +13,6 @@
 
 - 💬&nbsp; My Friends call me "Lee" its my nickname
 
-- 🚀 &nbsp; i live in **Brasil** but i want to live in **Portugal** or **Canada**
-
 
 <br>
 
