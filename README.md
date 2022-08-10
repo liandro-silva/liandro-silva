@@ -37,9 +37,9 @@
 
 <center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liandro-wesley&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liandro-silva&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=liandro-wesley&show_icons=true&theme=nightowl" alt="liandro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=liandro-silva&show_icons=true&theme=nightowl" alt="liandro's stats"/>
 </center>
 
 ##
