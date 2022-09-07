@@ -44,10 +44,6 @@
 
 ##
 
-<p align="center" style="background:blue">
-  <a href="https://www.instagram.com/liandro__wesley/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
-</a>
 <a href="https://linkedin.com/in/liandrowesley" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
