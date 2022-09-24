@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook lee">
 
-- 🍎&nbsp;Fullstack Developer. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 - ⚛&nbsp;JavaScript Developer
 
 - 👨🏻‍💻&nbsp; I’m always studying **JavaScript, React, React Native and NodeJS**
@@ -22,8 +21,6 @@
 ![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Nestjs](https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&logo=nestjs)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
