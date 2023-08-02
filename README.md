@@ -4,7 +4,6 @@ Currently, I am working as a Packaged App Development Senior Analyst at [@accent
 
 I work at a leading pharmaceutical retail company in Brazil. My main focus is on React and React Native development.
 
-Currently, I'm excited about [Flutter](https://flutter.dev) and I intend to work with it professionally.
 
 
 ##
