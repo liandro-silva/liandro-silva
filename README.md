@@ -2,7 +2,7 @@ Hi, how are you? Welcome to my GitHub profile. I've been working in software dev
 
 Currently, I am working as a Packaged App Development Senior Analyst at [@accenture.](https://www.accenture.com/br-pt)
 
-I work at a leading pharmaceutical retail company in Brazil. My main focus is on React and React Native development.
+I work at Automotive industry (B2B | B2C) an application with over 500,000 users in Brazil.
 
 
 
